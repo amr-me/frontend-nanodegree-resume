@@ -1,1 +1,1 @@
-$("#main").append([Amr]);
+$("#main").append("Amr");
